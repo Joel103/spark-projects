@@ -1,0 +1,9 @@
+Confusion Matrix:
+[924.  24.]
+[ 41. 125.]
+The rows are true labels and the columns predictions. (First Row: Spam, Second Row: No-Spam. Columns ordered analogous)
+
+Recall Spam:0.8389261744966443
+Recall No-Spam:0.9575129533678757
+Precision Spam:0.7530120481927711
+Precision No-Spam:0.9746835443037974
